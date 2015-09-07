@@ -19,6 +19,6 @@ This is the repository for assessment ICAICT514A Identify and manage the impleme
 
 3. CD to the folder
 
-  `cd sharktales`
+  `> cd sharktales`
 
 4. You're away!
