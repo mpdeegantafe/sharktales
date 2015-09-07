@@ -2,7 +2,7 @@
 Codebase is a copy of a simple WordPress theme.
 This is the repository for assessment ICAICT514A Identify and manage the implementation of Current Industry-Specific Technologies as part of my TAFE course, [ICA50611 Diploma of Website Development](http://www.northcoasttafe.edu.au/courses/ica50611-diploma-of-website-development.aspx).
 
-![Git](git-logo.png)[GitHub](github.png)
+![Git](git-logo.png)![GitHub](github.png)
 
 # The Team
 | Role          | Name           | GitHub Handle |
