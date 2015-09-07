@@ -17,5 +17,8 @@ This is the repository for assessment ICAICT514A Identify and manage the impleme
 
   `> git clone https://github.com/mpdeegantafe/sharktales.git`
 
-3. CD to the folder `cd sharktales`
+3. CD to the folder
+
+  `cd sharktales`
+
 4. You're away!
