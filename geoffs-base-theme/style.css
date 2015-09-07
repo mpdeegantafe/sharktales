@@ -1,0 +1,76 @@
+/*
+Theme Name: My Example Theme
+Theme URI: http://my-web-site.com.au/
+Author: Geoff Hill
+Author URI: http://your-web-site.com.au/
+Description: Theme for my client who makes widgets and gadgets.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/* reset the browser */
+* { 
+	margin: 0; 
+	padding: 0; 
+	border: 0;
+	outline: 0;
+	line-height: 1.4em;
+	vertical-align: baseline;
+	text-decoration: none; 
+}
+
+/* PAGE LAYOUT */
+/* body default settings */
+body {background:#e0d58f; font-family:Arial, Helvetica, sans-serif; font-size:90%;}
+
+/* navbar object creates a fixed navigation bar the width of the screen */
+#navbar {position:fixed; background:rgba(156,163,73,0.6); width:100%; height:40px; top:0; left:0; z-index:1000;}
+
+/* container is used to hold all content */
+#container { background:#fff; width:1000px; margin:40px auto; min-height:692px; box-shadow:3px 3px 7px rgba(0,0,0,0.3); }
+
+/* header is for content that will be displayed at top of page */
+header {background:rgba(217, 223, 142, 0.5); width:1000px; margin:0 auto; height:70px;}
+
+/* The next two objects are used to display decorative images on the page */
+#underlay {position:absolute; margin-top:10px; margin-left:10px; width:220px; height:305px; background:url(images/falls_palms.jpg);}
+
+#overlay {position:absolute; margin-top:320px; margin-left:10px; width:220px; height:293px; background:rgba(255,255,255, 0.2) url(images/falls.jpg);}
+
+/* nav contains content displayed on the navbar it is used for links */
+nav { width:1000px; margin:0 auto; height:20px; padding:10px 0;}
+
+/* NAVIGATION BAR MENU - LINKS */
+a {color:#969600;}
+a:hover {color:#628d22;}
+nav ul {list-style:none; padding: 0 10px;}
+nav li {float: left; color:#ff9; font-weight:bold; margin-right:10px;}
+nav a {color:#ffc;}
+nav a:hover {color:#ff9;}
+/* class used to identify the current page in the navigation bar */
+nav a.this-page {color:#fff;}
+
+
+
+/* PAGE CONTENT */
+/* the large left margin on article allows space for the overlapping images */
+article{margin:0 0 0 250px; padding:12px; }
+
+/* Two Part Page Template */
+.article{float:left;width:45%;}
+.sidebar{float:right; width:25%; padding:12px;}
+.sidebar li{list-style:none; padding:none;}
+.sidebar input {padding:2px; background:rgba(217, 223, 142, 0.4); border:1px solid rgba(217, 223, 142, 0.7);}
+.sidebar label {display:none;}
+.sidebar img { margin:12px 0; width:95%; padding:7px; border:rgb(217, 223, 142) solid 1px;box-shadow:2px 2px 4px rgba(0,0,0,0.5);}
+
+
+/* TYPOGRAPHY */
+h1 {font-size:150%;}
+header h1 {padding:15px 10px; color:#628d22;}
+
+h2 {font-size:130%;}
+
+/* CLEAR FLOAT */
+.clearfix {clear:both;}
