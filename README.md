@@ -12,7 +12,8 @@ This is the repository for assessment ICAICT514A Identify and manage the impleme
 | Teacher       | Urshula Beere  | [urshula](https://github.com/urshula)  |
 
 ## Instructions
-1. Make sure you have Git installed [git](http://git-scm.com/)
-2. Clone this repository into your local machine using the terminal (mac) or Gitbash (PC) `> git clone https://github.com/mpdeegantafe/sharktales.git`
+1. Make sure you have [Git](http://git-scm.com/) installed
+2. Clone this repository into your local machine using the terminal (mac) or Gitbash (PC) 
+  `> git clone https://github.com/mpdeegantafe/sharktales.git`
 3. CD to the folder `cd sharktales`
 4. You're away!
