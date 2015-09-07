@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title><?php bloginfo('name'); ?>  <?php wp_title(''); ?></title>
+<title>Chris Was Here <?php bloginfo('name'); ?>  <?php wp_title(''); ?></title>
 <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>" type="text/css" media="screen" />
 
 <?php wp_head(); ?>
