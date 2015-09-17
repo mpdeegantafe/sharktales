@@ -11,6 +11,7 @@ This is the repository for assessment ICAICT514A Identify and manage the impleme
 | ------------- | -------------- | ------------- |
 | Project Lead  | Mike Deegan    | [mpdeegantafe](https://github.com/mpdeegantafe)   |
 | Pleb          | Chris Taylor   | [Christopher08](https://github.com/Christopher08)   |
+| Pleb          | Loretta Faulkner   | [Loretta11](https://github.com/Loretta11)   |
 | Teacher       | Urshula Beere  | [urshula](https://github.com/urshula)  |
 
 ## Instructions
